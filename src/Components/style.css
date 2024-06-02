@@ -125,7 +125,7 @@ body{
     box-shadow: 0.5px 0.5px 0.5px black;
 }
 #texteditor{
-    width: 100%;
+    width: 90%;
     margin: 12px;
     height: 100px;
     outline: none;
